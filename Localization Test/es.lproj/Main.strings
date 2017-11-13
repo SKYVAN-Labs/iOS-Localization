@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Second Label"; ObjectID = "2Eg-vU-pFu"; */
+"2Eg-vU-pFu.text" = "Segunda etiqueta";
+
+/* Class = "UIButton"; normalTitle = "Update Button"; ObjectID = "DcE-Hy-2E2"; */
+"DcE-Hy-2E2.normalTitle" = "Botón Actualizar";
+
+/* Class = "UILabel"; text = "First Label"; ObjectID = "dP6-hr-d4F"; */
+"dP6-hr-d4F.text" = "Primera etiqueta";
+
+/* Class = "UILabel"; text = "Third Label"; ObjectID = "mPF-hs-fsS"; */
+"mPF-hs-fsS.text" = "Tercera etiqueta";
